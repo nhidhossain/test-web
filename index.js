@@ -1,0 +1,1 @@
+const maon=23;
